@@ -1,4 +1,4 @@
-# 免费VPN代理 - 5月1日19.7M/S|免费Clash/Shadowrocket/SSR/V2ray节点机场链接  更新时间 2025-05-01 14:13:38
+# 免费VPN代理 - 5月1日19.3M/S|免费Shadowrocket/V2ray/Clash/SSR节点机场链接  更新时间 2025-05-01 14:16:48
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://vpndaili.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
