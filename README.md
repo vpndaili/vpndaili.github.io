@@ -1,4 +1,4 @@
-# 免费VPN代理 - 12月19日19.2M/S|免费Singbox节点/SSR节点/V2ray节点/Shadowrocket节点/Clash节点节点机场链接  更新时间 2025-12-19 09:38:30
+# 免费VPN代理 - 12月26日19.8M/S|免费SSR节点/V2ray节点/Shadowrocket节点/Singbox节点/Clash节点节点机场链接  更新时间 2025-12-26 09:37:40
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://vpndaili.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://vpndaili.github.io/uploads/2025/12/0-20251219.yaml
-- https://vpndaili.github.io/uploads/2025/12/1-20251219.yaml
-- https://vpndaili.github.io/uploads/2025/12/2-20251219.yaml
-- https://vpndaili.github.io/uploads/2025/12/3-20251219.yaml
-- https://vpndaili.github.io/uploads/2025/12/4-20251219.yaml
+- https://vpndaili.github.io/uploads/2025/12/0-20251226.yaml
+- https://vpndaili.github.io/uploads/2025/12/1-20251226.yaml
+- https://vpndaili.github.io/uploads/2025/12/2-20251226.yaml
+- https://vpndaili.github.io/uploads/2025/12/3-20251226.yaml
+- https://vpndaili.github.io/uploads/2025/12/4-20251226.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://vpndaili.github.io/uploads/2025/12/0-20251219.txt
-- https://vpndaili.github.io/uploads/2025/12/1-20251219.txt
-- https://vpndaili.github.io/uploads/2025/12/2-20251219.txt
-- https://vpndaili.github.io/uploads/2025/12/3-20251219.txt
-- https://vpndaili.github.io/uploads/2025/12/4-20251219.txt
+- https://vpndaili.github.io/uploads/2025/12/0-20251226.txt
+- https://vpndaili.github.io/uploads/2025/12/1-20251226.txt
+- https://vpndaili.github.io/uploads/2025/12/2-20251226.txt
+- https://vpndaili.github.io/uploads/2025/12/3-20251226.txt
+- https://vpndaili.github.io/uploads/2025/12/4-20251226.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://vpndaili.github.io/uploads/2025/12/20251219.json
+- https://vpndaili.github.io/uploads/2025/12/20251226.json
 
 ## 更多Clash节点订阅 ：
 
