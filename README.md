@@ -1,4 +1,4 @@
-# 免费VPN代理 - 1月1日22M/S|免费SSR节点/Clash节点/V2ray节点/Singbox节点/Shadowrocket节点节点机场链接  更新时间 2026-01-01 10:11:35
+# 免费VPN代理 - 1月8日22.2M/S|免费Clash节点/V2ray节点/Singbox节点/SSR节点/Shadowrocket节点节点机场链接  更新时间 2026-01-08 10:05:24
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://vpndaili.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://vpndaili.github.io/uploads/2026/01/0-20260101.yaml
-- https://vpndaili.github.io/uploads/2026/01/1-20260101.yaml
-- https://vpndaili.github.io/uploads/2026/01/2-20260101.yaml
-- https://vpndaili.github.io/uploads/2026/01/3-20260101.yaml
-- https://vpndaili.github.io/uploads/2026/01/4-20260101.yaml
+- https://vpndaili.github.io/uploads/2026/01/0-20260108.yaml
+- https://vpndaili.github.io/uploads/2026/01/1-20260108.yaml
+- https://vpndaili.github.io/uploads/2026/01/2-20260108.yaml
+- https://vpndaili.github.io/uploads/2026/01/3-20260108.yaml
+- https://vpndaili.github.io/uploads/2026/01/4-20260108.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://vpndaili.github.io/uploads/2026/01/0-20260101.txt
-- https://vpndaili.github.io/uploads/2026/01/1-20260101.txt
-- https://vpndaili.github.io/uploads/2026/01/2-20260101.txt
-- https://vpndaili.github.io/uploads/2026/01/3-20260101.txt
-- https://vpndaili.github.io/uploads/2026/01/4-20260101.txt
+- https://vpndaili.github.io/uploads/2026/01/0-20260108.txt
+- https://vpndaili.github.io/uploads/2026/01/1-20260108.txt
+- https://vpndaili.github.io/uploads/2026/01/2-20260108.txt
+- https://vpndaili.github.io/uploads/2026/01/3-20260108.txt
+- https://vpndaili.github.io/uploads/2026/01/4-20260108.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://vpndaili.github.io/uploads/2026/01/20260101.json
+- https://vpndaili.github.io/uploads/2026/01/20260108.json
 
 ## 更多Clash节点订阅 ：
 
